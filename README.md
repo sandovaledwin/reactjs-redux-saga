@@ -5,7 +5,7 @@ This an small TODO app that aims to demostrate the integration of the next techn
 [ReactJS](https://reactjs.org/) \
 [Redux - State Management Library](https://redux.js.org/) \
 [Redux Saga - Redux Middleware](https://redux-saga.js.org/) \
-[Bootstrap UI Framework](https://getbootstrap.com/) \
+[Bootstrap UI Framework](https://getbootstrap.com/) 
 
 ![Todo APP](src/assets/images/todo-app.png)
 
