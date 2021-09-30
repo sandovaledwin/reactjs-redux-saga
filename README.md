@@ -1,4 +1,4 @@
-# Redux Essentials Tutorial Example
+# Todo APP - ReactJS
 
 This an small TODO app that aims to demostrate the integration of the next technologies:
 
